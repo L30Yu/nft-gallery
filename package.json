@@ -6,14 +6,18 @@
     "start": "next start"
   },
   "dependencies": {
+    "alchemy-sdk": "^2.6.1",
+    "install": "^0.13.0",
     "next": "latest",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-virtualized": "^9.22.3"
   },
   "devDependencies": {
     "@types/node": "18.11.3",
     "@types/react": "18.0.21",
     "@types/react-dom": "18.0.6",
+    "@types/react-virtualized": "^9.21.21",
     "autoprefixer": "^10.4.12",
     "postcss": "^8.4.18",
     "tailwindcss": "^3.2.4",
